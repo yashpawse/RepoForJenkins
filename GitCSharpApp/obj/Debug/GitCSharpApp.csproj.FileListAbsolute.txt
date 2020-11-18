@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\bin\Debug\GitCSharpApp.exe.config
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\bin\Debug\GitCSharpApp.exe
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\bin\Debug\GitCSharpApp.pdb
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\obj\Debug\GitCSharpApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\obj\Debug\GitCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\obj\Debug\GitCSharpApp.exe
+C:\Users\ACER\source\repos\GitCSharpApp\GitCSharpApp\obj\Debug\GitCSharpApp.pdb
